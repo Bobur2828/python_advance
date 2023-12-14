@@ -11,3 +11,6 @@ about compiler construction'''
 javob=re.findall('[А-Я]',text)
 
 print(len(javob))
+
+for i in text:
+    print(i)
